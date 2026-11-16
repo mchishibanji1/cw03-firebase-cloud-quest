@@ -17,6 +17,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
+# Project Overview
+This is a Flutter mobile application built for the Cloud Quest assignment. It features Firebase Authentication, Cloud Firestore integration, a trusted one-time reward Cloud Function, and a supervised AI Quest Coach with a read-only tool.
+
+
 # Platform Target
 - Target: Android Emulator (API 34)
 - Instructions to run: 
